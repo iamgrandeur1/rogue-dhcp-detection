@@ -19,6 +19,6 @@ The objective of the project was to analyze DHCP lease activity, identify multip
 - SIEM Operations
 - Network Visibility
 
-## 📂 Project Documentation
+##  Project Documentation
 
 - [Rogue DHCP Detection](./rogue-dhcp-detection.md)
